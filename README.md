@@ -1,1 +1,2 @@
-# point-of-sales-suite
+# Point-of-Sales System
+
